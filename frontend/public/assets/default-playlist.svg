@@ -1,0 +1,8 @@
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="300" fill="#1D3557"/>
+  <rect x="75" y="75" width="150" height="20" rx="5" fill="#A8DADC"/>
+  <rect x="75" y="115" width="150" height="20" rx="5" fill="#A8DADC"/>
+  <rect x="75" y="155" width="150" height="20" rx="5" fill="#A8DADC"/>
+  <rect x="75" y="195" width="150" height="20" rx="5" fill="#A8DADC"/>
+  <text x="150" y="240" font-family="Arial" font-size="20" text-anchor="middle" fill="#F1FAEE">Playlist</text>
+</svg>

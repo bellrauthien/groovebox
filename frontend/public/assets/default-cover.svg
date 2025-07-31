@@ -1,0 +1,7 @@
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="300" fill="#252422"/>
+  <circle cx="150" cy="150" r="75" fill="#457B9D"/>
+  <circle cx="150" cy="150" r="25" fill="#252422"/>
+  <path d="M150 75C150 75 150 150 150 150" stroke="#F9C74F" stroke-width="5"/>
+  <text x="150" y="200" font-family="Arial" font-size="20" text-anchor="middle" fill="#F1FAEE">No Album Art</text>
+</svg>
